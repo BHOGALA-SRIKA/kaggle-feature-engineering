@@ -17,7 +17,7 @@ The goal of this project is to move beyond basic data cleaning and apply advance
 By applying these feature engineering steps, the model's performance was significantly enhanced.
 - **Baseline RMSLE:** 0.14321
 - **Final Optimized RMSLE:** 0.11985
-- 
+  
 ## Repository Structure
 - `feature_engineering.py`: The main Python script containing the full pipeline.
 - `requirements.txt`: List of necessary libraries (pandas, scikit-learn, xgboost, etc.).
